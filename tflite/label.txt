@@ -1,0 +1,17 @@
+labels = [
+    'Carrot',
+    'Broccoli',
+    'Bitter_Gourd',
+    'Tomato',
+    'Bean',
+    'Radish',
+    'Cauliflower',
+    'Bottle_Gourd',
+    'Cucumber',
+    'Capsicum',
+    'Cabbage',
+    'Brinjal',
+    'Potato',
+    'Papaya',
+    'Pumpkin'
+]
